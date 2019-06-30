@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Group discussion - Locations and trade
 date: 2019-06-30T01:48:17.571Z
 description: 'Place: Chik-Fil-A'
-featuredpost: false
+featuredpost: true
 featuredimage: /img/1d0990f5-2e6a-4a44-80ef-1b38ef45cfcf-chick-fil-a-1-.jpg
 tags:
   - history
